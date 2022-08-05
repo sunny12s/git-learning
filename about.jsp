@@ -8,7 +8,7 @@
 <body>
  
  
-   <h1>welcome the git page</h1>
+   <h1>welcome the about page</h1>
 
 </body>
 </html>
